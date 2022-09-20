@@ -57,7 +57,7 @@
     align-items: center; }
   .main-container .container-articles {
     grid-template-columns: repeat(2, 1fr);
-    font-size: 1.4em;
+    font-size: 1.2em;
     margin: 1.4em; }
     .main-container .container-articles article:nth-child(1) {
       grid-row: 1;
